@@ -1,0 +1,1462 @@
+[
+  {
+    "temperature": 5.99,
+    "accidents": 242
+  },
+  {
+    "temperature": 2.26,
+    "accidents": 291
+  },
+  {
+    "temperature": 1.9,
+    "accidents": 301
+  },
+  {
+    "temperature": 3.64,
+    "accidents": 334
+  },
+  {
+    "temperature": 1.49,
+    "accidents": 437
+  },
+  {
+    "temperature": 3.69,
+    "accidents": 373
+  },
+  {
+    "temperature": 7,
+    "accidents": 257
+  },
+  {
+    "temperature": 7.04,
+    "accidents": 226
+  },
+  {
+    "temperature": 6.97,
+    "accidents": 424
+  },
+  {
+    "temperature": 4.97,
+    "accidents": 402
+  },
+  {
+    "temperature": 6.97,
+    "accidents": 365
+  },
+  {
+    "temperature": 4.07,
+    "accidents": 429
+  },
+  {
+    "temperature": 1.83,
+    "accidents": 408
+  },
+  {
+    "temperature": 1.45,
+    "accidents": 315
+  },
+  {
+    "temperature": 3.86,
+    "accidents": 207
+  },
+  {
+    "temperature": 3.15,
+    "accidents": 367
+  },
+  {
+    "temperature": 0.82,
+    "accidents": 401
+  },
+  {
+    "temperature": 0.15,
+    "accidents": 389
+  },
+  {
+    "temperature": 1.25,
+    "accidents": 396
+  },
+  {
+    "temperature": 1.13,
+    "accidents": 485
+  },
+  {
+    "temperature": 0.11,
+    "accidents": 356
+  },
+  {
+    "temperature": 1.93,
+    "accidents": 272
+  },
+  {
+    "temperature": 1.64,
+    "accidents": 381
+  },
+  {
+    "temperature": 1.75,
+    "accidents": 400
+  },
+  {
+    "temperature": 1.29,
+    "accidents": 425
+  },
+  {
+    "temperature": -0.36,
+    "accidents": 401
+  },
+  {
+    "temperature": 2.84,
+    "accidents": 399
+  },
+  {
+    "temperature": 5.62,
+    "accidents": 370
+  },
+  {
+    "temperature": 6.19,
+    "accidents": 348
+  },
+  {
+    "temperature": 6.79,
+    "accidents": 345
+  },
+  {
+    "temperature": 5.92,
+    "accidents": 401
+  },
+  {
+    "temperature": 8.34,
+    "accidents": 333
+  },
+  {
+    "temperature": 8.8,
+    "accidents": 394
+  },
+  {
+    "temperature": 7.53,
+    "accidents": 449
+  },
+  {
+    "temperature": 4.44,
+    "accidents": 358
+  },
+  {
+    "temperature": 4.65,
+    "accidents": 247
+  },
+  {
+    "temperature": 4.05,
+    "accidents": 403
+  },
+  {
+    "temperature": 5.73,
+    "accidents": 430
+  },
+  {
+    "temperature": 3.1,
+    "accidents": 353
+  },
+  {
+    "temperature": 1.47,
+    "accidents": 338
+  },
+  {
+    "temperature": 1.22,
+    "accidents": 431
+  },
+  {
+    "temperature": 0.98,
+    "accidents": 282
+  },
+  {
+    "temperature": 2.96,
+    "accidents": 222
+  },
+  {
+    "temperature": 4.65,
+    "accidents": 358
+  },
+  {
+    "temperature": 5.77,
+    "accidents": 392
+  },
+  {
+    "temperature": 7.58,
+    "accidents": 382
+  },
+  {
+    "temperature": 7.15,
+    "accidents": 393
+  },
+  {
+    "temperature": 6.88,
+    "accidents": 356
+  },
+  {
+    "temperature": 6.45,
+    "accidents": 297
+  },
+  {
+    "temperature": 7.65,
+    "accidents": 224
+  },
+  {
+    "temperature": 10.67,
+    "accidents": 332
+  },
+  {
+    "temperature": 9.97,
+    "accidents": 298
+  },
+  {
+    "temperature": 10.21,
+    "accidents": 351
+  },
+  {
+    "temperature": 8.32,
+    "accidents": 353
+  },
+  {
+    "temperature": 4.55,
+    "accidents": 418
+  },
+  {
+    "temperature": 7.54,
+    "accidents": 271
+  },
+  {
+    "temperature": 9.49,
+    "accidents": 249
+  },
+  {
+    "temperature": 7.12,
+    "accidents": 389
+  },
+  {
+    "temperature": 4.98,
+    "accidents": 437
+  },
+  {
+    "temperature": 6.26,
+    "accidents": 372
+  },
+  {
+    "temperature": 6.77,
+    "accidents": 394
+  },
+  {
+    "temperature": 7.11,
+    "accidents": 411
+  },
+  {
+    "temperature": 7.46,
+    "accidents": 300
+  },
+  {
+    "temperature": 6.48,
+    "accidents": 278
+  },
+  {
+    "temperature": 6.09,
+    "accidents": 352
+  },
+  {
+    "temperature": 5.99,
+    "accidents": 360
+  },
+  {
+    "temperature": 9.75,
+    "accidents": 336
+  },
+  {
+    "temperature": 9.93,
+    "accidents": 391
+  },
+  {
+    "temperature": 7.51,
+    "accidents": 336
+  },
+  {
+    "temperature": 9.59,
+    "accidents": 303
+  },
+  {
+    "temperature": 9.11,
+    "accidents": 230
+  },
+  {
+    "temperature": 9.08,
+    "accidents": 342
+  },
+  {
+    "temperature": 10.03,
+    "accidents": 336
+  },
+  {
+    "temperature": 10.46,
+    "accidents": 431
+  },
+  {
+    "temperature": 8.26,
+    "accidents": 352
+  },
+  {
+    "temperature": 7.64,
+    "accidents": 367
+  },
+  {
+    "temperature": 11.24,
+    "accidents": 315
+  },
+  {
+    "temperature": 10.99,
+    "accidents": 240
+  },
+  {
+    "temperature": 9.86,
+    "accidents": 317
+  },
+  {
+    "temperature": 6.65,
+    "accidents": 378
+  },
+  {
+    "temperature": 6.26,
+    "accidents": 357
+  },
+  {
+    "temperature": 7.42,
+    "accidents": 330
+  },
+  {
+    "temperature": 7.99,
+    "accidents": 410
+  },
+  {
+    "temperature": 8.08,
+    "accidents": 419
+  },
+  {
+    "temperature": 8.51,
+    "accidents": 308
+  },
+  {
+    "temperature": 8.85,
+    "accidents": 366
+  },
+  {
+    "temperature": 10.26,
+    "accidents": 371
+  },
+  {
+    "temperature": 11.27,
+    "accidents": 326
+  },
+  {
+    "temperature": 12.97,
+    "accidents": 359
+  },
+  {
+    "temperature": 11.3,
+    "accidents": 419
+  },
+  {
+    "temperature": 9.98,
+    "accidents": 324
+  },
+  {
+    "temperature": 10.2,
+    "accidents": 352
+  },
+  {
+    "temperature": 9.44,
+    "accidents": 343
+  },
+  {
+    "temperature": 10.14,
+    "accidents": 310
+  },
+  {
+    "temperature": 9.23,
+    "accidents": 367
+  },
+  {
+    "temperature": 10.32,
+    "accidents": 380
+  },
+  {
+    "temperature": 10.17,
+    "accidents": 377
+  },
+  {
+    "temperature": 10.58,
+    "accidents": 437
+  },
+  {
+    "temperature": 12.31,
+    "accidents": 387
+  },
+  {
+    "temperature": 9.98,
+    "accidents": 268
+  },
+  {
+    "temperature": 9.76,
+    "accidents": 346
+  },
+  {
+    "temperature": 9.89,
+    "accidents": 286
+  },
+  {
+    "temperature": 9.29,
+    "accidents": 326
+  },
+  {
+    "temperature": 10.02,
+    "accidents": 283
+  },
+  {
+    "temperature": 10.14,
+    "accidents": 302
+  },
+  {
+    "temperature": 9.29,
+    "accidents": 246
+  },
+  {
+    "temperature": 8.89,
+    "accidents": 224
+  },
+  {
+    "temperature": 7.08,
+    "accidents": 354
+  },
+  {
+    "temperature": 6.9,
+    "accidents": 296
+  },
+  {
+    "temperature": 8.91,
+    "accidents": 305
+  },
+  {
+    "temperature": 10.92,
+    "accidents": 312
+  },
+  {
+    "temperature": 9.61,
+    "accidents": 323
+  },
+  {
+    "temperature": 9.02,
+    "accidents": 251
+  },
+  {
+    "temperature": 9.6,
+    "accidents": 341
+  },
+  {
+    "temperature": 5.27,
+    "accidents": 370
+  },
+  {
+    "temperature": 5.22,
+    "accidents": 383
+  },
+  {
+    "temperature": 6.1,
+    "accidents": 351
+  },
+  {
+    "temperature": 9.18,
+    "accidents": 330
+  },
+  {
+    "temperature": 10.32,
+    "accidents": 299
+  },
+  {
+    "temperature": 11.31,
+    "accidents": 300
+  },
+  {
+    "temperature": 10.02,
+    "accidents": 262
+  },
+  {
+    "temperature": 10.98,
+    "accidents": 372
+  },
+  {
+    "temperature": 9.33,
+    "accidents": 377
+  },
+  {
+    "temperature": 10.57,
+    "accidents": 334
+  },
+  {
+    "temperature": 10.19,
+    "accidents": 401
+  },
+  {
+    "temperature": 10.84,
+    "accidents": 300
+  },
+  {
+    "temperature": 10.74,
+    "accidents": 301
+  },
+  {
+    "temperature": 9.12,
+    "accidents": 301
+  },
+  {
+    "temperature": 9.42,
+    "accidents": 377
+  },
+  {
+    "temperature": 9.61,
+    "accidents": 386
+  },
+  {
+    "temperature": 12.85,
+    "accidents": 362
+  },
+  {
+    "temperature": 13.52,
+    "accidents": 394
+  },
+  {
+    "temperature": 12.81,
+    "accidents": 310
+  },
+  {
+    "temperature": 13.14,
+    "accidents": 286
+  },
+  {
+    "temperature": 13.06,
+    "accidents": 351
+  },
+  {
+    "temperature": 15.88,
+    "accidents": 375
+  },
+  {
+    "temperature": 15.15,
+    "accidents": 375
+  },
+  {
+    "temperature": 12.81,
+    "accidents": 386
+  },
+  {
+    "temperature": 11.18,
+    "accidents": 373
+  },
+  {
+    "temperature": 11.48,
+    "accidents": 333
+  },
+  {
+    "temperature": 13.26,
+    "accidents": 296
+  },
+  {
+    "temperature": 15.06,
+    "accidents": 387
+  },
+  {
+    "temperature": 15.65,
+    "accidents": 357
+  },
+  {
+    "temperature": 17.48,
+    "accidents": 412
+  },
+  {
+    "temperature": 16.57,
+    "accidents": 454
+  },
+  {
+    "temperature": 17.18,
+    "accidents": 503
+  },
+  {
+    "temperature": 16.62,
+    "accidents": 352
+  },
+  {
+    "temperature": 15.45,
+    "accidents": 300
+  },
+  {
+    "temperature": 16.35,
+    "accidents": 255
+  },
+  {
+    "temperature": 16.07,
+    "accidents": 313
+  },
+  {
+    "temperature": 16.07,
+    "accidents": 337
+  },
+  {
+    "temperature": 16.89,
+    "accidents": 378
+  },
+  {
+    "temperature": 17.34,
+    "accidents": 378
+  },
+  {
+    "temperature": 16.09,
+    "accidents": 338
+  },
+  {
+    "temperature": 13.95,
+    "accidents": 271
+  },
+  {
+    "temperature": 13.86,
+    "accidents": 379
+  },
+  {
+    "temperature": 12.82,
+    "accidents": 377
+  },
+  {
+    "temperature": 14.14,
+    "accidents": 344
+  },
+  {
+    "temperature": 15.25,
+    "accidents": 363
+  },
+  {
+    "temperature": 15.3,
+    "accidents": 383
+  },
+  {
+    "temperature": 16.24,
+    "accidents": 314
+  },
+  {
+    "temperature": 16.07,
+    "accidents": 287
+  },
+  {
+    "temperature": 14.96,
+    "accidents": 311
+  },
+  {
+    "temperature": 16.09,
+    "accidents": 403
+  },
+  {
+    "temperature": 17.54,
+    "accidents": 410
+  },
+  {
+    "temperature": 17.44,
+    "accidents": 430
+  },
+  {
+    "temperature": 16.86,
+    "accidents": 412
+  },
+  {
+    "temperature": 20.29,
+    "accidents": 394
+  },
+  {
+    "temperature": 21.59,
+    "accidents": 352
+  },
+  {
+    "temperature": 21.23,
+    "accidents": 431
+  },
+  {
+    "temperature": 20.02,
+    "accidents": 439
+  },
+  {
+    "temperature": 21.03,
+    "accidents": 415
+  },
+  {
+    "temperature": 19.58,
+    "accidents": 389
+  },
+  {
+    "temperature": 17.98,
+    "accidents": 401
+  },
+  {
+    "temperature": 17.65,
+    "accidents": 351
+  },
+  {
+    "temperature": 17.31,
+    "accidents": 291
+  },
+  {
+    "temperature": 16.89,
+    "accidents": 389
+  },
+  {
+    "temperature": 15.89,
+    "accidents": 349
+  },
+  {
+    "temperature": 15.77,
+    "accidents": 397
+  },
+  {
+    "temperature": 14.49,
+    "accidents": 372
+  },
+  {
+    "temperature": 16.53,
+    "accidents": 382
+  },
+  {
+    "temperature": 17.2,
+    "accidents": 351
+  },
+  {
+    "temperature": 17.59,
+    "accidents": 389
+  },
+  {
+    "temperature": 17.67,
+    "accidents": 355
+  },
+  {
+    "temperature": 18.18,
+    "accidents": 420
+  },
+  {
+    "temperature": 19.36,
+    "accidents": 449
+  },
+  {
+    "temperature": 20.56,
+    "accidents": 386
+  },
+  {
+    "temperature": 20.85,
+    "accidents": 470
+  },
+  {
+    "temperature": 19.75,
+    "accidents": 365
+  },
+  {
+    "temperature": 19.8,
+    "accidents": 311
+  },
+  {
+    "temperature": 19.09,
+    "accidents": 383
+  },
+  {
+    "temperature": 16.48,
+    "accidents": 419
+  },
+  {
+    "temperature": 16.92,
+    "accidents": 440
+  },
+  {
+    "temperature": 16.41,
+    "accidents": 402
+  },
+  {
+    "temperature": 17.08,
+    "accidents": 393
+  },
+  {
+    "temperature": 17.35,
+    "accidents": 351
+  },
+  {
+    "temperature": 19.74,
+    "accidents": 296
+  },
+  {
+    "temperature": 18.31,
+    "accidents": 440
+  },
+  {
+    "temperature": 19.55,
+    "accidents": 390
+  },
+  {
+    "temperature": 19.74,
+    "accidents": 329
+  },
+  {
+    "temperature": 17.65,
+    "accidents": 383
+  },
+  {
+    "temperature": 17.2,
+    "accidents": 416
+  },
+  {
+    "temperature": 15.44,
+    "accidents": 382
+  },
+  {
+    "temperature": 15.38,
+    "accidents": 308
+  },
+  {
+    "temperature": 16.18,
+    "accidents": 298
+  },
+  {
+    "temperature": 17.23,
+    "accidents": 348
+  },
+  {
+    "temperature": 17.14,
+    "accidents": 322
+  },
+  {
+    "temperature": 16.47,
+    "accidents": 334
+  },
+  {
+    "temperature": 16.76,
+    "accidents": 363
+  },
+  {
+    "temperature": 17.44,
+    "accidents": 343
+  },
+  {
+    "temperature": 17.24,
+    "accidents": 278
+  },
+  {
+    "temperature": 16.55,
+    "accidents": 336
+  },
+  {
+    "temperature": 16.78,
+    "accidents": 348
+  },
+  {
+    "temperature": 16.64,
+    "accidents": 366
+  },
+  {
+    "temperature": 17.84,
+    "accidents": 296
+  },
+  {
+    "temperature": 17.39,
+    "accidents": 354
+  },
+  {
+    "temperature": 15.91,
+    "accidents": 336
+  },
+  {
+    "temperature": 15.56,
+    "accidents": 304
+  },
+  {
+    "temperature": 16.22,
+    "accidents": 285
+  },
+  {
+    "temperature": 15.58,
+    "accidents": 331
+  },
+  {
+    "temperature": 14.57,
+    "accidents": 362
+  },
+  {
+    "temperature": 15.67,
+    "accidents": 353
+  },
+  {
+    "temperature": 16.4,
+    "accidents": 332
+  },
+  {
+    "temperature": 17.88,
+    "accidents": 300
+  },
+  {
+    "temperature": 16.04,
+    "accidents": 331
+  },
+  {
+    "temperature": 17.07,
+    "accidents": 325
+  },
+  {
+    "temperature": 17.75,
+    "accidents": 355
+  },
+  {
+    "temperature": 16.55,
+    "accidents": 357
+  },
+  {
+    "temperature": 18.73,
+    "accidents": 406
+  },
+  {
+    "temperature": 16.67,
+    "accidents": 374
+  },
+  {
+    "temperature": 15.77,
+    "accidents": 289
+  },
+  {
+    "temperature": 15.52,
+    "accidents": 309
+  },
+  {
+    "temperature": 17.59,
+    "accidents": 297
+  },
+  {
+    "temperature": 18.64,
+    "accidents": 328
+  },
+  {
+    "temperature": 18.63,
+    "accidents": 330
+  },
+  {
+    "temperature": 16.81,
+    "accidents": 296
+  },
+  {
+    "temperature": 17.24,
+    "accidents": 392
+  },
+  {
+    "temperature": 18.77,
+    "accidents": 305
+  },
+  {
+    "temperature": 19.33,
+    "accidents": 320
+  },
+  {
+    "temperature": 19.68,
+    "accidents": 288
+  },
+  {
+    "temperature": 20.18,
+    "accidents": 320
+  },
+  {
+    "temperature": 14.2,
+    "accidents": 353
+  },
+  {
+    "temperature": 14.3,
+    "accidents": 359
+  },
+  {
+    "temperature": 15.37,
+    "accidents": 395
+  },
+  {
+    "temperature": 15.1,
+    "accidents": 355
+  },
+  {
+    "temperature": 15.01,
+    "accidents": 284
+  },
+  {
+    "temperature": 17.61,
+    "accidents": 330
+  },
+  {
+    "temperature": 17.59,
+    "accidents": 349
+  },
+  {
+    "temperature": 15.14,
+    "accidents": 354
+  },
+  {
+    "temperature": 15.13,
+    "accidents": 348
+  },
+  {
+    "temperature": 15.31,
+    "accidents": 457
+  },
+  {
+    "temperature": 13.34,
+    "accidents": 382
+  },
+  {
+    "temperature": 13.42,
+    "accidents": 297
+  },
+  {
+    "temperature": 14.36,
+    "accidents": 388
+  },
+  {
+    "temperature": 14.16,
+    "accidents": 426
+  },
+  {
+    "temperature": 14.34,
+    "accidents": 371
+  },
+  {
+    "temperature": 12.1,
+    "accidents": 376
+  },
+  {
+    "temperature": 11.47,
+    "accidents": 436
+  },
+  {
+    "temperature": 11.46,
+    "accidents": 336
+  },
+  {
+    "temperature": 12.02,
+    "accidents": 294
+  },
+  {
+    "temperature": 12.17,
+    "accidents": 357
+  },
+  {
+    "temperature": 11.92,
+    "accidents": 407
+  },
+  {
+    "temperature": 13.63,
+    "accidents": 355
+  },
+  {
+    "temperature": 14.68,
+    "accidents": 369
+  },
+  {
+    "temperature": 12.36,
+    "accidents": 509
+  },
+  {
+    "temperature": 14.8,
+    "accidents": 296
+  },
+  {
+    "temperature": 15.58,
+    "accidents": 309
+  },
+  {
+    "temperature": 15.75,
+    "accidents": 345
+  },
+  {
+    "temperature": 15.2,
+    "accidents": 348
+  },
+  {
+    "temperature": 15.51,
+    "accidents": 403
+  },
+  {
+    "temperature": 15.67,
+    "accidents": 409
+  },
+  {
+    "temperature": 15.87,
+    "accidents": 435
+  },
+  {
+    "temperature": 13.68,
+    "accidents": 371
+  },
+  {
+    "temperature": 15.69,
+    "accidents": 258
+  },
+  {
+    "temperature": 14.43,
+    "accidents": 331
+  },
+  {
+    "temperature": 11.78,
+    "accidents": 428
+  },
+  {
+    "temperature": 12.03,
+    "accidents": 332
+  },
+  {
+    "temperature": 13.2,
+    "accidents": 415
+  },
+  {
+    "temperature": 10.91,
+    "accidents": 426
+  },
+  {
+    "temperature": 13.06,
+    "accidents": 340
+  },
+  {
+    "temperature": 12.38,
+    "accidents": 260
+  },
+  {
+    "temperature": 12.91,
+    "accidents": 295
+  },
+  {
+    "temperature": 13.99,
+    "accidents": 418
+  },
+  {
+    "temperature": 14.69,
+    "accidents": 416
+  },
+  {
+    "temperature": 12.64,
+    "accidents": 416
+  },
+  {
+    "temperature": 15.31,
+    "accidents": 377
+  },
+  {
+    "temperature": 15.18,
+    "accidents": 336
+  },
+  {
+    "temperature": 15.21,
+    "accidents": 306
+  },
+  {
+    "temperature": 16.4,
+    "accidents": 356
+  },
+  {
+    "temperature": 12.51,
+    "accidents": 370
+  },
+  {
+    "temperature": 13.65,
+    "accidents": 388
+  },
+  {
+    "temperature": 14.76,
+    "accidents": 450
+  },
+  {
+    "temperature": 13.06,
+    "accidents": 449
+  },
+  {
+    "temperature": 13.45,
+    "accidents": 337
+  },
+  {
+    "temperature": 10.67,
+    "accidents": 252
+  },
+  {
+    "temperature": 12.84,
+    "accidents": 327
+  },
+  {
+    "temperature": 15.58,
+    "accidents": 328
+  },
+  {
+    "temperature": 13.89,
+    "accidents": 365
+  },
+  {
+    "temperature": 12.58,
+    "accidents": 349
+  },
+  {
+    "temperature": 9.81,
+    "accidents": 504
+  },
+  {
+    "temperature": 10.36,
+    "accidents": 314
+  },
+  {
+    "temperature": 10.66,
+    "accidents": 311
+  },
+  {
+    "temperature": 7.14,
+    "accidents": 360
+  },
+  {
+    "temperature": 9.4,
+    "accidents": 380
+  },
+  {
+    "temperature": 10.46,
+    "accidents": 373
+  },
+  {
+    "temperature": 8.85,
+    "accidents": 357
+  },
+  {
+    "temperature": 10.49,
+    "accidents": 436
+  },
+  {
+    "temperature": 10.94,
+    "accidents": 357
+  },
+  {
+    "temperature": 6.3,
+    "accidents": 286
+  },
+  {
+    "temperature": 5.53,
+    "accidents": 438
+  },
+  {
+    "temperature": 8.94,
+    "accidents": 422
+  },
+  {
+    "temperature": 6.58,
+    "accidents": 431
+  },
+  {
+    "temperature": 7.21,
+    "accidents": 398
+  },
+  {
+    "temperature": 8.97,
+    "accidents": 455
+  },
+  {
+    "temperature": 8.33,
+    "accidents": 344
+  },
+  {
+    "temperature": 5.84,
+    "accidents": 289
+  },
+  {
+    "temperature": 3.7,
+    "accidents": 376
+  },
+  {
+    "temperature": 7.32,
+    "accidents": 421
+  },
+  {
+    "temperature": 9.62,
+    "accidents": 434
+  },
+  {
+    "temperature": 9.36,
+    "accidents": 436
+  },
+  {
+    "temperature": 4.4,
+    "accidents": 450
+  },
+  {
+    "temperature": 5.39,
+    "accidents": 328
+  },
+  {
+    "temperature": 4.03,
+    "accidents": 305
+  },
+  {
+    "temperature": 9.92,
+    "accidents": 379
+  },
+  {
+    "temperature": 11.73,
+    "accidents": 394
+  },
+  {
+    "temperature": 12.94,
+    "accidents": 428
+  },
+  {
+    "temperature": 10.4,
+    "accidents": 458
+  },
+  {
+    "temperature": 5.55,
+    "accidents": 497
+  },
+  {
+    "temperature": 2.93,
+    "accidents": 383
+  },
+  {
+    "temperature": 4.17,
+    "accidents": 315
+  },
+  {
+    "temperature": 7.94,
+    "accidents": 431
+  },
+  {
+    "temperature": 4,
+    "accidents": 465
+  },
+  {
+    "temperature": 3.44,
+    "accidents": 416
+  },
+  {
+    "temperature": 1.14,
+    "accidents": 456
+  },
+  {
+    "temperature": 3.33,
+    "accidents": 559
+  },
+  {
+    "temperature": 3.65,
+    "accidents": 315
+  },
+  {
+    "temperature": 6.1,
+    "accidents": 269
+  },
+  {
+    "temperature": 5.14,
+    "accidents": 388
+  },
+  {
+    "temperature": 5.78,
+    "accidents": 377
+  },
+  {
+    "temperature": 7.88,
+    "accidents": 413
+  },
+  {
+    "temperature": 8.02,
+    "accidents": 428
+  },
+  {
+    "temperature": 2.59,
+    "accidents": 466
+  },
+  {
+    "temperature": 0.62,
+    "accidents": 323
+  },
+  {
+    "temperature": 2.17,
+    "accidents": 228
+  },
+  {
+    "temperature": 1.72,
+    "accidents": 334
+  },
+  {
+    "temperature": 0.96,
+    "accidents": 393
+  },
+  {
+    "temperature": 6.31,
+    "accidents": 391
+  },
+  {
+    "temperature": 3.93,
+    "accidents": 468
+  },
+  {
+    "temperature": 3.5,
+    "accidents": 476
+  },
+  {
+    "temperature": 1.78,
+    "accidents": 368
+  },
+  {
+    "temperature": 4.44,
+    "accidents": 247
+  },
+  {
+    "temperature": 3.28,
+    "accidents": 448
+  },
+  {
+    "temperature": 3.8,
+    "accidents": 389
+  },
+  {
+    "temperature": 7.55,
+    "accidents": 338
+  },
+  {
+    "temperature": 8.87,
+    "accidents": 356
+  },
+  {
+    "temperature": 8.45,
+    "accidents": 393
+  },
+  {
+    "temperature": 8.7,
+    "accidents": 289
+  },
+  {
+    "temperature": 8.55,
+    "accidents": 220
+  },
+  {
+    "temperature": 8.67,
+    "accidents": 137
+  },
+  {
+    "temperature": 5.76,
+    "accidents": 259
+  },
+  {
+    "temperature": 3.09,
+    "accidents": 264
+  },
+  {
+    "temperature": 1.02,
+    "accidents": 296
+  },
+  {
+    "temperature": 5.08,
+    "accidents": 240
+  },
+  {
+    "temperature": 9.93,
+    "accidents": 210
+  },
+  {
+    "temperature": 10.02,
+    "accidents": 188
+  }
+]
