@@ -1,0 +1,2198 @@
+[
+  {
+    "Date": "01-Jan",
+    "Count of Date": 242,
+    "Sum of Number_of_Vehicles": 410,
+    "Sum of Number_of_Casualties": 308
+  },
+  {
+    "Date": "02-Jan",
+    "Count of Date": 291,
+    "Sum of Number_of_Vehicles": 484,
+    "Sum of Number_of_Casualties": 356
+  },
+  {
+    "Date": "03-Jan",
+    "Count of Date": 301,
+    "Sum of Number_of_Vehicles": 517,
+    "Sum of Number_of_Casualties": 353
+  },
+  {
+    "Date": "04-Jan",
+    "Count of Date": 334,
+    "Sum of Number_of_Vehicles": 563,
+    "Sum of Number_of_Casualties": 392
+  },
+  {
+    "Date": "05-Jan",
+    "Count of Date": 437,
+    "Sum of Number_of_Vehicles": 756,
+    "Sum of Number_of_Casualties": 531
+  },
+  {
+    "Date": "06-Jan",
+    "Count of Date": 373,
+    "Sum of Number_of_Vehicles": 629,
+    "Sum of Number_of_Casualties": 449
+  },
+  {
+    "Date": "07-Jan",
+    "Count of Date": 257,
+    "Sum of Number_of_Vehicles": 451,
+    "Sum of Number_of_Casualties": 307
+  },
+  {
+    "Date": "08-Jan",
+    "Count of Date": 226,
+    "Sum of Number_of_Vehicles": 392,
+    "Sum of Number_of_Casualties": 288
+  },
+  {
+    "Date": "09-Jan",
+    "Count of Date": 424,
+    "Sum of Number_of_Vehicles": 747,
+    "Sum of Number_of_Casualties": 505
+  },
+  {
+    "Date": "10-Jan",
+    "Count of Date": 402,
+    "Sum of Number_of_Vehicles": 737,
+    "Sum of Number_of_Casualties": 485
+  },
+  {
+    "Date": "11-Jan",
+    "Count of Date": 365,
+    "Sum of Number_of_Vehicles": 612,
+    "Sum of Number_of_Casualties": 436
+  },
+  {
+    "Date": "12-Jan",
+    "Count of Date": 429,
+    "Sum of Number_of_Vehicles": 756,
+    "Sum of Number_of_Casualties": 533
+  },
+  {
+    "Date": "13-Jan",
+    "Count of Date": 408,
+    "Sum of Number_of_Vehicles": 722,
+    "Sum of Number_of_Casualties": 491
+  },
+  {
+    "Date": "14-Jan",
+    "Count of Date": 315,
+    "Sum of Number_of_Vehicles": 540,
+    "Sum of Number_of_Casualties": 372
+  },
+  {
+    "Date": "15-Jan",
+    "Count of Date": 207,
+    "Sum of Number_of_Vehicles": 360,
+    "Sum of Number_of_Casualties": 235
+  },
+  {
+    "Date": "16-Jan",
+    "Count of Date": 367,
+    "Sum of Number_of_Vehicles": 609,
+    "Sum of Number_of_Casualties": 423
+  },
+  {
+    "Date": "17-Jan",
+    "Count of Date": 401,
+    "Sum of Number_of_Vehicles": 691,
+    "Sum of Number_of_Casualties": 479
+  },
+  {
+    "Date": "18-Jan",
+    "Count of Date": 389,
+    "Sum of Number_of_Vehicles": 658,
+    "Sum of Number_of_Casualties": 458
+  },
+  {
+    "Date": "19-Jan",
+    "Count of Date": 396,
+    "Sum of Number_of_Vehicles": 695,
+    "Sum of Number_of_Casualties": 489
+  },
+  {
+    "Date": "20-Jan",
+    "Count of Date": 485,
+    "Sum of Number_of_Vehicles": 870,
+    "Sum of Number_of_Casualties": 607
+  },
+  {
+    "Date": "21-Jan",
+    "Count of Date": 356,
+    "Sum of Number_of_Vehicles": 606,
+    "Sum of Number_of_Casualties": 445
+  },
+  {
+    "Date": "22-Jan",
+    "Count of Date": 272,
+    "Sum of Number_of_Vehicles": 472,
+    "Sum of Number_of_Casualties": 332
+  },
+  {
+    "Date": "23-Jan",
+    "Count of Date": 381,
+    "Sum of Number_of_Vehicles": 669,
+    "Sum of Number_of_Casualties": 461
+  },
+  {
+    "Date": "24-Jan",
+    "Count of Date": 400,
+    "Sum of Number_of_Vehicles": 724,
+    "Sum of Number_of_Casualties": 517
+  },
+  {
+    "Date": "25-Jan",
+    "Count of Date": 425,
+    "Sum of Number_of_Vehicles": 751,
+    "Sum of Number_of_Casualties": 509
+  },
+  {
+    "Date": "26-Jan",
+    "Count of Date": 401,
+    "Sum of Number_of_Vehicles": 700,
+    "Sum of Number_of_Casualties": 484
+  },
+  {
+    "Date": "27-Jan",
+    "Count of Date": 399,
+    "Sum of Number_of_Vehicles": 703,
+    "Sum of Number_of_Casualties": 465
+  },
+  {
+    "Date": "28-Jan",
+    "Count of Date": 370,
+    "Sum of Number_of_Vehicles": 671,
+    "Sum of Number_of_Casualties": 427
+  },
+  {
+    "Date": "29-Jan",
+    "Count of Date": 348,
+    "Sum of Number_of_Vehicles": 596,
+    "Sum of Number_of_Casualties": 421
+  },
+  {
+    "Date": "30-Jan",
+    "Count of Date": 345,
+    "Sum of Number_of_Vehicles": 625,
+    "Sum of Number_of_Casualties": 420
+  },
+  {
+    "Date": "31-Jan",
+    "Count of Date": 401,
+    "Sum of Number_of_Vehicles": 704,
+    "Sum of Number_of_Casualties": 472
+  },
+  {
+    "Date": "01-Feb",
+    "Count of Date": 333,
+    "Sum of Number_of_Vehicles": 606,
+    "Sum of Number_of_Casualties": 412
+  },
+  {
+    "Date": "02-Feb",
+    "Count of Date": 394,
+    "Sum of Number_of_Vehicles": 689,
+    "Sum of Number_of_Casualties": 470
+  },
+  {
+    "Date": "03-Feb",
+    "Count of Date": 449,
+    "Sum of Number_of_Vehicles": 791,
+    "Sum of Number_of_Casualties": 523
+  },
+  {
+    "Date": "04-Feb",
+    "Count of Date": 358,
+    "Sum of Number_of_Vehicles": 637,
+    "Sum of Number_of_Casualties": 456
+  },
+  {
+    "Date": "05-Feb",
+    "Count of Date": 247,
+    "Sum of Number_of_Vehicles": 435,
+    "Sum of Number_of_Casualties": 313
+  },
+  {
+    "Date": "06-Feb",
+    "Count of Date": 403,
+    "Sum of Number_of_Vehicles": 716,
+    "Sum of Number_of_Casualties": 501
+  },
+  {
+    "Date": "07-Feb",
+    "Count of Date": 430,
+    "Sum of Number_of_Vehicles": 768,
+    "Sum of Number_of_Casualties": 529
+  },
+  {
+    "Date": "08-Feb",
+    "Count of Date": 353,
+    "Sum of Number_of_Vehicles": 623,
+    "Sum of Number_of_Casualties": 431
+  },
+  {
+    "Date": "09-Feb",
+    "Count of Date": 338,
+    "Sum of Number_of_Vehicles": 602,
+    "Sum of Number_of_Casualties": 384
+  },
+  {
+    "Date": "10-Feb",
+    "Count of Date": 431,
+    "Sum of Number_of_Vehicles": 749,
+    "Sum of Number_of_Casualties": 525
+  },
+  {
+    "Date": "11-Feb",
+    "Count of Date": 282,
+    "Sum of Number_of_Vehicles": 499,
+    "Sum of Number_of_Casualties": 336
+  },
+  {
+    "Date": "12-Feb",
+    "Count of Date": 222,
+    "Sum of Number_of_Vehicles": 389,
+    "Sum of Number_of_Casualties": 258
+  },
+  {
+    "Date": "13-Feb",
+    "Count of Date": 358,
+    "Sum of Number_of_Vehicles": 628,
+    "Sum of Number_of_Casualties": 427
+  },
+  {
+    "Date": "14-Feb",
+    "Count of Date": 392,
+    "Sum of Number_of_Vehicles": 722,
+    "Sum of Number_of_Casualties": 474
+  },
+  {
+    "Date": "15-Feb",
+    "Count of Date": 382,
+    "Sum of Number_of_Vehicles": 661,
+    "Sum of Number_of_Casualties": 457
+  },
+  {
+    "Date": "16-Feb",
+    "Count of Date": 393,
+    "Sum of Number_of_Vehicles": 692,
+    "Sum of Number_of_Casualties": 474
+  },
+  {
+    "Date": "17-Feb",
+    "Count of Date": 356,
+    "Sum of Number_of_Vehicles": 607,
+    "Sum of Number_of_Casualties": 456
+  },
+  {
+    "Date": "18-Feb",
+    "Count of Date": 297,
+    "Sum of Number_of_Vehicles": 522,
+    "Sum of Number_of_Casualties": 368
+  },
+  {
+    "Date": "19-Feb",
+    "Count of Date": 224,
+    "Sum of Number_of_Vehicles": 411,
+    "Sum of Number_of_Casualties": 268
+  },
+  {
+    "Date": "20-Feb",
+    "Count of Date": 332,
+    "Sum of Number_of_Vehicles": 582,
+    "Sum of Number_of_Casualties": 389
+  },
+  {
+    "Date": "21-Feb",
+    "Count of Date": 298,
+    "Sum of Number_of_Vehicles": 517,
+    "Sum of Number_of_Casualties": 359
+  },
+  {
+    "Date": "22-Feb",
+    "Count of Date": 351,
+    "Sum of Number_of_Vehicles": 633,
+    "Sum of Number_of_Casualties": 416
+  },
+  {
+    "Date": "23-Feb",
+    "Count of Date": 353,
+    "Sum of Number_of_Vehicles": 642,
+    "Sum of Number_of_Casualties": 431
+  },
+  {
+    "Date": "24-Feb",
+    "Count of Date": 418,
+    "Sum of Number_of_Vehicles": 698,
+    "Sum of Number_of_Casualties": 512
+  },
+  {
+    "Date": "25-Feb",
+    "Count of Date": 271,
+    "Sum of Number_of_Vehicles": 488,
+    "Sum of Number_of_Casualties": 313
+  },
+  {
+    "Date": "26-Feb",
+    "Count of Date": 249,
+    "Sum of Number_of_Vehicles": 449,
+    "Sum of Number_of_Casualties": 299
+  },
+  {
+    "Date": "27-Feb",
+    "Count of Date": 389,
+    "Sum of Number_of_Vehicles": 684,
+    "Sum of Number_of_Casualties": 443
+  },
+  {
+    "Date": "28-Feb",
+    "Count of Date": 437,
+    "Sum of Number_of_Vehicles": 786,
+    "Sum of Number_of_Casualties": 544
+  },
+  {
+    "Date": "01-Mar",
+    "Count of Date": 372,
+    "Sum of Number_of_Vehicles": 669,
+    "Sum of Number_of_Casualties": 464
+  },
+  {
+    "Date": "02-Mar",
+    "Count of Date": 394,
+    "Sum of Number_of_Vehicles": 702,
+    "Sum of Number_of_Casualties": 474
+  },
+  {
+    "Date": "03-Mar",
+    "Count of Date": 411,
+    "Sum of Number_of_Vehicles": 739,
+    "Sum of Number_of_Casualties": 464
+  },
+  {
+    "Date": "04-Mar",
+    "Count of Date": 300,
+    "Sum of Number_of_Vehicles": 557,
+    "Sum of Number_of_Casualties": 373
+  },
+  {
+    "Date": "05-Mar",
+    "Count of Date": 278,
+    "Sum of Number_of_Vehicles": 484,
+    "Sum of Number_of_Casualties": 329
+  },
+  {
+    "Date": "06-Mar",
+    "Count of Date": 352,
+    "Sum of Number_of_Vehicles": 640,
+    "Sum of Number_of_Casualties": 417
+  },
+  {
+    "Date": "07-Mar",
+    "Count of Date": 360,
+    "Sum of Number_of_Vehicles": 624,
+    "Sum of Number_of_Casualties": 403
+  },
+  {
+    "Date": "08-Mar",
+    "Count of Date": 336,
+    "Sum of Number_of_Vehicles": 598,
+    "Sum of Number_of_Casualties": 400
+  },
+  {
+    "Date": "09-Mar",
+    "Count of Date": 391,
+    "Sum of Number_of_Vehicles": 695,
+    "Sum of Number_of_Casualties": 461
+  },
+  {
+    "Date": "10-Mar",
+    "Count of Date": 336,
+    "Sum of Number_of_Vehicles": 574,
+    "Sum of Number_of_Casualties": 376
+  },
+  {
+    "Date": "11-Mar",
+    "Count of Date": 303,
+    "Sum of Number_of_Vehicles": 533,
+    "Sum of Number_of_Casualties": 351
+  },
+  {
+    "Date": "12-Mar",
+    "Count of Date": 230,
+    "Sum of Number_of_Vehicles": 392,
+    "Sum of Number_of_Casualties": 279
+  },
+  {
+    "Date": "13-Mar",
+    "Count of Date": 342,
+    "Sum of Number_of_Vehicles": 588,
+    "Sum of Number_of_Casualties": 412
+  },
+  {
+    "Date": "14-Mar",
+    "Count of Date": 336,
+    "Sum of Number_of_Vehicles": 581,
+    "Sum of Number_of_Casualties": 397
+  },
+  {
+    "Date": "15-Mar",
+    "Count of Date": 431,
+    "Sum of Number_of_Vehicles": 779,
+    "Sum of Number_of_Casualties": 522
+  },
+  {
+    "Date": "16-Mar",
+    "Count of Date": 352,
+    "Sum of Number_of_Vehicles": 620,
+    "Sum of Number_of_Casualties": 443
+  },
+  {
+    "Date": "17-Mar",
+    "Count of Date": 367,
+    "Sum of Number_of_Vehicles": 622,
+    "Sum of Number_of_Casualties": 452
+  },
+  {
+    "Date": "18-Mar",
+    "Count of Date": 315,
+    "Sum of Number_of_Vehicles": 558,
+    "Sum of Number_of_Casualties": 447
+  },
+  {
+    "Date": "19-Mar",
+    "Count of Date": 240,
+    "Sum of Number_of_Vehicles": 413,
+    "Sum of Number_of_Casualties": 337
+  },
+  {
+    "Date": "20-Mar",
+    "Count of Date": 317,
+    "Sum of Number_of_Vehicles": 585,
+    "Sum of Number_of_Casualties": 438
+  },
+  {
+    "Date": "21-Mar",
+    "Count of Date": 378,
+    "Sum of Number_of_Vehicles": 660,
+    "Sum of Number_of_Casualties": 492
+  },
+  {
+    "Date": "22-Mar",
+    "Count of Date": 357,
+    "Sum of Number_of_Vehicles": 657,
+    "Sum of Number_of_Casualties": 509
+  },
+  {
+    "Date": "23-Mar",
+    "Count of Date": 330,
+    "Sum of Number_of_Vehicles": 605,
+    "Sum of Number_of_Casualties": 462
+  },
+  {
+    "Date": "24-Mar",
+    "Count of Date": 410,
+    "Sum of Number_of_Vehicles": 717,
+    "Sum of Number_of_Casualties": 545
+  },
+  {
+    "Date": "25-Mar",
+    "Count of Date": 419,
+    "Sum of Number_of_Vehicles": 792,
+    "Sum of Number_of_Casualties": 595
+  },
+  {
+    "Date": "26-Mar",
+    "Count of Date": 308,
+    "Sum of Number_of_Vehicles": 567,
+    "Sum of Number_of_Casualties": 415
+  },
+  {
+    "Date": "27-Mar",
+    "Count of Date": 366,
+    "Sum of Number_of_Vehicles": 688,
+    "Sum of Number_of_Casualties": 513
+  },
+  {
+    "Date": "28-Mar",
+    "Count of Date": 371,
+    "Sum of Number_of_Vehicles": 681,
+    "Sum of Number_of_Casualties": 517
+  },
+  {
+    "Date": "29-Mar",
+    "Count of Date": 326,
+    "Sum of Number_of_Vehicles": 604,
+    "Sum of Number_of_Casualties": 483
+  },
+  {
+    "Date": "30-Mar",
+    "Count of Date": 359,
+    "Sum of Number_of_Vehicles": 653,
+    "Sum of Number_of_Casualties": 497
+  },
+  {
+    "Date": "31-Mar",
+    "Count of Date": 419,
+    "Sum of Number_of_Vehicles": 731,
+    "Sum of Number_of_Casualties": 561
+  },
+  {
+    "Date": "01-Apr",
+    "Count of Date": 324,
+    "Sum of Number_of_Vehicles": 557,
+    "Sum of Number_of_Casualties": 418
+  },
+  {
+    "Date": "02-Apr",
+    "Count of Date": 352,
+    "Sum of Number_of_Vehicles": 639,
+    "Sum of Number_of_Casualties": 465
+  },
+  {
+    "Date": "03-Apr",
+    "Count of Date": 343,
+    "Sum of Number_of_Vehicles": 625,
+    "Sum of Number_of_Casualties": 486
+  },
+  {
+    "Date": "04-Apr",
+    "Count of Date": 310,
+    "Sum of Number_of_Vehicles": 537,
+    "Sum of Number_of_Casualties": 420
+  },
+  {
+    "Date": "05-Apr",
+    "Count of Date": 367,
+    "Sum of Number_of_Vehicles": 660,
+    "Sum of Number_of_Casualties": 514
+  },
+  {
+    "Date": "06-Apr",
+    "Count of Date": 380,
+    "Sum of Number_of_Vehicles": 653,
+    "Sum of Number_of_Casualties": 485
+  },
+  {
+    "Date": "07-Apr",
+    "Count of Date": 377,
+    "Sum of Number_of_Vehicles": 701,
+    "Sum of Number_of_Casualties": 501
+  },
+  {
+    "Date": "08-Apr",
+    "Count of Date": 437,
+    "Sum of Number_of_Vehicles": 860,
+    "Sum of Number_of_Casualties": 564
+  },
+  {
+    "Date": "09-Apr",
+    "Count of Date": 387,
+    "Sum of Number_of_Vehicles": 728,
+    "Sum of Number_of_Casualties": 490
+  },
+  {
+    "Date": "10-Apr",
+    "Count of Date": 268,
+    "Sum of Number_of_Vehicles": 493,
+    "Sum of Number_of_Casualties": 362
+  },
+  {
+    "Date": "11-Apr",
+    "Count of Date": 346,
+    "Sum of Number_of_Vehicles": 628,
+    "Sum of Number_of_Casualties": 454
+  },
+  {
+    "Date": "12-Apr",
+    "Count of Date": 286,
+    "Sum of Number_of_Vehicles": 538,
+    "Sum of Number_of_Casualties": 385
+  },
+  {
+    "Date": "13-Apr",
+    "Count of Date": 326,
+    "Sum of Number_of_Vehicles": 599,
+    "Sum of Number_of_Casualties": 434
+  },
+  {
+    "Date": "14-Apr",
+    "Count of Date": 283,
+    "Sum of Number_of_Vehicles": 523,
+    "Sum of Number_of_Casualties": 358
+  },
+  {
+    "Date": "15-Apr",
+    "Count of Date": 302,
+    "Sum of Number_of_Vehicles": 568,
+    "Sum of Number_of_Casualties": 380
+  },
+  {
+    "Date": "16-Apr",
+    "Count of Date": 246,
+    "Sum of Number_of_Vehicles": 460,
+    "Sum of Number_of_Casualties": 313
+  },
+  {
+    "Date": "17-Apr",
+    "Count of Date": 224,
+    "Sum of Number_of_Vehicles": 418,
+    "Sum of Number_of_Casualties": 312
+  },
+  {
+    "Date": "18-Apr",
+    "Count of Date": 354,
+    "Sum of Number_of_Vehicles": 666,
+    "Sum of Number_of_Casualties": 537
+  },
+  {
+    "Date": "19-Apr",
+    "Count of Date": 296,
+    "Sum of Number_of_Vehicles": 598,
+    "Sum of Number_of_Casualties": 425
+  },
+  {
+    "Date": "20-Apr",
+    "Count of Date": 305,
+    "Sum of Number_of_Vehicles": 568,
+    "Sum of Number_of_Casualties": 397
+  },
+  {
+    "Date": "21-Apr",
+    "Count of Date": 312,
+    "Sum of Number_of_Vehicles": 603,
+    "Sum of Number_of_Casualties": 398
+  },
+  {
+    "Date": "22-Apr",
+    "Count of Date": 323,
+    "Sum of Number_of_Vehicles": 582,
+    "Sum of Number_of_Casualties": 402
+  },
+  {
+    "Date": "23-Apr",
+    "Count of Date": 251,
+    "Sum of Number_of_Vehicles": 460,
+    "Sum of Number_of_Casualties": 310
+  },
+  {
+    "Date": "24-Apr",
+    "Count of Date": 341,
+    "Sum of Number_of_Vehicles": 633,
+    "Sum of Number_of_Casualties": 447
+  },
+  {
+    "Date": "25-Apr",
+    "Count of Date": 370,
+    "Sum of Number_of_Vehicles": 659,
+    "Sum of Number_of_Casualties": 486
+  },
+  {
+    "Date": "26-Apr",
+    "Count of Date": 383,
+    "Sum of Number_of_Vehicles": 692,
+    "Sum of Number_of_Casualties": 491
+  },
+  {
+    "Date": "27-Apr",
+    "Count of Date": 351,
+    "Sum of Number_of_Vehicles": 662,
+    "Sum of Number_of_Casualties": 470
+  },
+  {
+    "Date": "28-Apr",
+    "Count of Date": 330,
+    "Sum of Number_of_Vehicles": 581,
+    "Sum of Number_of_Casualties": 423
+  },
+  {
+    "Date": "29-Apr",
+    "Count of Date": 299,
+    "Sum of Number_of_Vehicles": 540,
+    "Sum of Number_of_Casualties": 392
+  },
+  {
+    "Date": "30-Apr",
+    "Count of Date": 300,
+    "Sum of Number_of_Vehicles": 531,
+    "Sum of Number_of_Casualties": 384
+  },
+  {
+    "Date": "01-May",
+    "Count of Date": 262,
+    "Sum of Number_of_Vehicles": 475,
+    "Sum of Number_of_Casualties": 350
+  },
+  {
+    "Date": "02-May",
+    "Count of Date": 372,
+    "Sum of Number_of_Vehicles": 678,
+    "Sum of Number_of_Casualties": 475
+  },
+  {
+    "Date": "03-May",
+    "Count of Date": 377,
+    "Sum of Number_of_Vehicles": 670,
+    "Sum of Number_of_Casualties": 525
+  },
+  {
+    "Date": "04-May",
+    "Count of Date": 334,
+    "Sum of Number_of_Vehicles": 606,
+    "Sum of Number_of_Casualties": 504
+  },
+  {
+    "Date": "05-May",
+    "Count of Date": 401,
+    "Sum of Number_of_Vehicles": 741,
+    "Sum of Number_of_Casualties": 561
+  },
+  {
+    "Date": "06-May",
+    "Count of Date": 300,
+    "Sum of Number_of_Vehicles": 560,
+    "Sum of Number_of_Casualties": 418
+  },
+  {
+    "Date": "07-May",
+    "Count of Date": 301,
+    "Sum of Number_of_Vehicles": 544,
+    "Sum of Number_of_Casualties": 416
+  },
+  {
+    "Date": "08-May",
+    "Count of Date": 301,
+    "Sum of Number_of_Vehicles": 540,
+    "Sum of Number_of_Casualties": 403
+  },
+  {
+    "Date": "09-May",
+    "Count of Date": 377,
+    "Sum of Number_of_Vehicles": 725,
+    "Sum of Number_of_Casualties": 547
+  },
+  {
+    "Date": "10-May",
+    "Count of Date": 386,
+    "Sum of Number_of_Vehicles": 688,
+    "Sum of Number_of_Casualties": 513
+  },
+  {
+    "Date": "11-May",
+    "Count of Date": 362,
+    "Sum of Number_of_Vehicles": 627,
+    "Sum of Number_of_Casualties": 456
+  },
+  {
+    "Date": "12-May",
+    "Count of Date": 394,
+    "Sum of Number_of_Vehicles": 733,
+    "Sum of Number_of_Casualties": 552
+  },
+  {
+    "Date": "13-May",
+    "Count of Date": 310,
+    "Sum of Number_of_Vehicles": 556,
+    "Sum of Number_of_Casualties": 422
+  },
+  {
+    "Date": "14-May",
+    "Count of Date": 286,
+    "Sum of Number_of_Vehicles": 535,
+    "Sum of Number_of_Casualties": 368
+  },
+  {
+    "Date": "15-May",
+    "Count of Date": 351,
+    "Sum of Number_of_Vehicles": 661,
+    "Sum of Number_of_Casualties": 475
+  },
+  {
+    "Date": "16-May",
+    "Count of Date": 375,
+    "Sum of Number_of_Vehicles": 676,
+    "Sum of Number_of_Casualties": 475
+  },
+  {
+    "Date": "17-May",
+    "Count of Date": 375,
+    "Sum of Number_of_Vehicles": 724,
+    "Sum of Number_of_Casualties": 502
+  },
+  {
+    "Date": "18-May",
+    "Count of Date": 386,
+    "Sum of Number_of_Vehicles": 715,
+    "Sum of Number_of_Casualties": 504
+  },
+  {
+    "Date": "19-May",
+    "Count of Date": 373,
+    "Sum of Number_of_Vehicles": 698,
+    "Sum of Number_of_Casualties": 493
+  },
+  {
+    "Date": "20-May",
+    "Count of Date": 333,
+    "Sum of Number_of_Vehicles": 616,
+    "Sum of Number_of_Casualties": 444
+  },
+  {
+    "Date": "21-May",
+    "Count of Date": 296,
+    "Sum of Number_of_Vehicles": 555,
+    "Sum of Number_of_Casualties": 397
+  },
+  {
+    "Date": "22-May",
+    "Count of Date": 387,
+    "Sum of Number_of_Vehicles": 711,
+    "Sum of Number_of_Casualties": 496
+  },
+  {
+    "Date": "23-May",
+    "Count of Date": 357,
+    "Sum of Number_of_Vehicles": 652,
+    "Sum of Number_of_Casualties": 474
+  },
+  {
+    "Date": "24-May",
+    "Count of Date": 412,
+    "Sum of Number_of_Vehicles": 756,
+    "Sum of Number_of_Casualties": 563
+  },
+  {
+    "Date": "25-May",
+    "Count of Date": 454,
+    "Sum of Number_of_Vehicles": 866,
+    "Sum of Number_of_Casualties": 654
+  },
+  {
+    "Date": "26-May",
+    "Count of Date": 503,
+    "Sum of Number_of_Vehicles": 936,
+    "Sum of Number_of_Casualties": 689
+  },
+  {
+    "Date": "27-May",
+    "Count of Date": 352,
+    "Sum of Number_of_Vehicles": 673,
+    "Sum of Number_of_Casualties": 506
+  },
+  {
+    "Date": "28-May",
+    "Count of Date": 300,
+    "Sum of Number_of_Vehicles": 558,
+    "Sum of Number_of_Casualties": 412
+  },
+  {
+    "Date": "29-May",
+    "Count of Date": 255,
+    "Sum of Number_of_Vehicles": 484,
+    "Sum of Number_of_Casualties": 328
+  },
+  {
+    "Date": "30-May",
+    "Count of Date": 313,
+    "Sum of Number_of_Vehicles": 583,
+    "Sum of Number_of_Casualties": 450
+  },
+  {
+    "Date": "31-May",
+    "Count of Date": 337,
+    "Sum of Number_of_Vehicles": 606,
+    "Sum of Number_of_Casualties": 438
+  },
+  {
+    "Date": "01-Jun",
+    "Count of Date": 378,
+    "Sum of Number_of_Vehicles": 673,
+    "Sum of Number_of_Casualties": 467
+  },
+  {
+    "Date": "02-Jun",
+    "Count of Date": 378,
+    "Sum of Number_of_Vehicles": 703,
+    "Sum of Number_of_Casualties": 483
+  },
+  {
+    "Date": "03-Jun",
+    "Count of Date": 338,
+    "Sum of Number_of_Vehicles": 649,
+    "Sum of Number_of_Casualties": 439
+  },
+  {
+    "Date": "04-Jun",
+    "Count of Date": 271,
+    "Sum of Number_of_Vehicles": 488,
+    "Sum of Number_of_Casualties": 329
+  },
+  {
+    "Date": "05-Jun",
+    "Count of Date": 379,
+    "Sum of Number_of_Vehicles": 704,
+    "Sum of Number_of_Casualties": 539
+  },
+  {
+    "Date": "06-Jun",
+    "Count of Date": 377,
+    "Sum of Number_of_Vehicles": 675,
+    "Sum of Number_of_Casualties": 474
+  },
+  {
+    "Date": "07-Jun",
+    "Count of Date": 344,
+    "Sum of Number_of_Vehicles": 627,
+    "Sum of Number_of_Casualties": 459
+  },
+  {
+    "Date": "08-Jun",
+    "Count of Date": 363,
+    "Sum of Number_of_Vehicles": 667,
+    "Sum of Number_of_Casualties": 492
+  },
+  {
+    "Date": "09-Jun",
+    "Count of Date": 383,
+    "Sum of Number_of_Vehicles": 708,
+    "Sum of Number_of_Casualties": 519
+  },
+  {
+    "Date": "10-Jun",
+    "Count of Date": 314,
+    "Sum of Number_of_Vehicles": 590,
+    "Sum of Number_of_Casualties": 438
+  },
+  {
+    "Date": "11-Jun",
+    "Count of Date": 287,
+    "Sum of Number_of_Vehicles": 532,
+    "Sum of Number_of_Casualties": 377
+  },
+  {
+    "Date": "12-Jun",
+    "Count of Date": 311,
+    "Sum of Number_of_Vehicles": 590,
+    "Sum of Number_of_Casualties": 401
+  },
+  {
+    "Date": "13-Jun",
+    "Count of Date": 403,
+    "Sum of Number_of_Vehicles": 753,
+    "Sum of Number_of_Casualties": 544
+  },
+  {
+    "Date": "14-Jun",
+    "Count of Date": 410,
+    "Sum of Number_of_Vehicles": 787,
+    "Sum of Number_of_Casualties": 564
+  },
+  {
+    "Date": "15-Jun",
+    "Count of Date": 430,
+    "Sum of Number_of_Vehicles": 806,
+    "Sum of Number_of_Casualties": 592
+  },
+  {
+    "Date": "16-Jun",
+    "Count of Date": 412,
+    "Sum of Number_of_Vehicles": 820,
+    "Sum of Number_of_Casualties": 566
+  },
+  {
+    "Date": "17-Jun",
+    "Count of Date": 394,
+    "Sum of Number_of_Vehicles": 742,
+    "Sum of Number_of_Casualties": 538
+  },
+  {
+    "Date": "18-Jun",
+    "Count of Date": 352,
+    "Sum of Number_of_Vehicles": 698,
+    "Sum of Number_of_Casualties": 491
+  },
+  {
+    "Date": "19-Jun",
+    "Count of Date": 431,
+    "Sum of Number_of_Vehicles": 803,
+    "Sum of Number_of_Casualties": 579
+  },
+  {
+    "Date": "20-Jun",
+    "Count of Date": 439,
+    "Sum of Number_of_Vehicles": 828,
+    "Sum of Number_of_Casualties": 572
+  },
+  {
+    "Date": "21-Jun",
+    "Count of Date": 415,
+    "Sum of Number_of_Vehicles": 801,
+    "Sum of Number_of_Casualties": 567
+  },
+  {
+    "Date": "22-Jun",
+    "Count of Date": 389,
+    "Sum of Number_of_Vehicles": 711,
+    "Sum of Number_of_Casualties": 528
+  },
+  {
+    "Date": "23-Jun",
+    "Count of Date": 401,
+    "Sum of Number_of_Vehicles": 775,
+    "Sum of Number_of_Casualties": 544
+  },
+  {
+    "Date": "24-Jun",
+    "Count of Date": 351,
+    "Sum of Number_of_Vehicles": 683,
+    "Sum of Number_of_Casualties": 480
+  },
+  {
+    "Date": "25-Jun",
+    "Count of Date": 291,
+    "Sum of Number_of_Vehicles": 582,
+    "Sum of Number_of_Casualties": 384
+  },
+  {
+    "Date": "26-Jun",
+    "Count of Date": 389,
+    "Sum of Number_of_Vehicles": 778,
+    "Sum of Number_of_Casualties": 551
+  },
+  {
+    "Date": "27-Jun",
+    "Count of Date": 349,
+    "Sum of Number_of_Vehicles": 676,
+    "Sum of Number_of_Casualties": 472
+  },
+  {
+    "Date": "28-Jun",
+    "Count of Date": 397,
+    "Sum of Number_of_Vehicles": 767,
+    "Sum of Number_of_Casualties": 548
+  },
+  {
+    "Date": "29-Jun",
+    "Count of Date": 372,
+    "Sum of Number_of_Vehicles": 677,
+    "Sum of Number_of_Casualties": 486
+  },
+  {
+    "Date": "30-Jun",
+    "Count of Date": 382,
+    "Sum of Number_of_Vehicles": 705,
+    "Sum of Number_of_Casualties": 497
+  },
+  {
+    "Date": "01-Jul",
+    "Count of Date": 351,
+    "Sum of Number_of_Vehicles": 659,
+    "Sum of Number_of_Casualties": 456
+  },
+  {
+    "Date": "02-Jul",
+    "Count of Date": 389,
+    "Sum of Number_of_Vehicles": 738,
+    "Sum of Number_of_Casualties": 524
+  },
+  {
+    "Date": "03-Jul",
+    "Count of Date": 355,
+    "Sum of Number_of_Vehicles": 647,
+    "Sum of Number_of_Casualties": 490
+  },
+  {
+    "Date": "04-Jul",
+    "Count of Date": 420,
+    "Sum of Number_of_Vehicles": 765,
+    "Sum of Number_of_Casualties": 565
+  },
+  {
+    "Date": "05-Jul",
+    "Count of Date": 449,
+    "Sum of Number_of_Vehicles": 888,
+    "Sum of Number_of_Casualties": 631
+  },
+  {
+    "Date": "06-Jul",
+    "Count of Date": 386,
+    "Sum of Number_of_Vehicles": 735,
+    "Sum of Number_of_Casualties": 514
+  },
+  {
+    "Date": "07-Jul",
+    "Count of Date": 470,
+    "Sum of Number_of_Vehicles": 914,
+    "Sum of Number_of_Casualties": 662
+  },
+  {
+    "Date": "08-Jul",
+    "Count of Date": 365,
+    "Sum of Number_of_Vehicles": 646,
+    "Sum of Number_of_Casualties": 458
+  },
+  {
+    "Date": "09-Jul",
+    "Count of Date": 311,
+    "Sum of Number_of_Vehicles": 573,
+    "Sum of Number_of_Casualties": 417
+  },
+  {
+    "Date": "10-Jul",
+    "Count of Date": 383,
+    "Sum of Number_of_Vehicles": 735,
+    "Sum of Number_of_Casualties": 487
+  },
+  {
+    "Date": "11-Jul",
+    "Count of Date": 419,
+    "Sum of Number_of_Vehicles": 776,
+    "Sum of Number_of_Casualties": 545
+  },
+  {
+    "Date": "12-Jul",
+    "Count of Date": 440,
+    "Sum of Number_of_Vehicles": 793,
+    "Sum of Number_of_Casualties": 588
+  },
+  {
+    "Date": "13-Jul",
+    "Count of Date": 402,
+    "Sum of Number_of_Vehicles": 740,
+    "Sum of Number_of_Casualties": 540
+  },
+  {
+    "Date": "14-Jul",
+    "Count of Date": 393,
+    "Sum of Number_of_Vehicles": 720,
+    "Sum of Number_of_Casualties": 528
+  },
+  {
+    "Date": "15-Jul",
+    "Count of Date": 351,
+    "Sum of Number_of_Vehicles": 607,
+    "Sum of Number_of_Casualties": 425
+  },
+  {
+    "Date": "16-Jul",
+    "Count of Date": 296,
+    "Sum of Number_of_Vehicles": 519,
+    "Sum of Number_of_Casualties": 388
+  },
+  {
+    "Date": "17-Jul",
+    "Count of Date": 440,
+    "Sum of Number_of_Vehicles": 800,
+    "Sum of Number_of_Casualties": 567
+  },
+  {
+    "Date": "18-Jul",
+    "Count of Date": 390,
+    "Sum of Number_of_Vehicles": 684,
+    "Sum of Number_of_Casualties": 519
+  },
+  {
+    "Date": "19-Jul",
+    "Count of Date": 329,
+    "Sum of Number_of_Vehicles": 539,
+    "Sum of Number_of_Casualties": 424
+  },
+  {
+    "Date": "20-Jul",
+    "Count of Date": 383,
+    "Sum of Number_of_Vehicles": 667,
+    "Sum of Number_of_Casualties": 512
+  },
+  {
+    "Date": "21-Jul",
+    "Count of Date": 416,
+    "Sum of Number_of_Vehicles": 722,
+    "Sum of Number_of_Casualties": 583
+  },
+  {
+    "Date": "22-Jul",
+    "Count of Date": 382,
+    "Sum of Number_of_Vehicles": 678,
+    "Sum of Number_of_Casualties": 530
+  },
+  {
+    "Date": "23-Jul",
+    "Count of Date": 308,
+    "Sum of Number_of_Vehicles": 539,
+    "Sum of Number_of_Casualties": 404
+  },
+  {
+    "Date": "24-Jul",
+    "Count of Date": 298,
+    "Sum of Number_of_Vehicles": 547,
+    "Sum of Number_of_Casualties": 411
+  },
+  {
+    "Date": "25-Jul",
+    "Count of Date": 348,
+    "Sum of Number_of_Vehicles": 686,
+    "Sum of Number_of_Casualties": 471
+  },
+  {
+    "Date": "26-Jul",
+    "Count of Date": 322,
+    "Sum of Number_of_Vehicles": 632,
+    "Sum of Number_of_Casualties": 478
+  },
+  {
+    "Date": "27-Jul",
+    "Count of Date": 334,
+    "Sum of Number_of_Vehicles": 648,
+    "Sum of Number_of_Casualties": 459
+  },
+  {
+    "Date": "28-Jul",
+    "Count of Date": 363,
+    "Sum of Number_of_Vehicles": 694,
+    "Sum of Number_of_Casualties": 463
+  },
+  {
+    "Date": "29-Jul",
+    "Count of Date": 343,
+    "Sum of Number_of_Vehicles": 646,
+    "Sum of Number_of_Casualties": 427
+  },
+  {
+    "Date": "30-Jul",
+    "Count of Date": 278,
+    "Sum of Number_of_Vehicles": 518,
+    "Sum of Number_of_Casualties": 371
+  },
+  {
+    "Date": "31-Jul",
+    "Count of Date": 336,
+    "Sum of Number_of_Vehicles": 653,
+    "Sum of Number_of_Casualties": 405
+  },
+  {
+    "Date": "01-Aug",
+    "Count of Date": 348,
+    "Sum of Number_of_Vehicles": 645,
+    "Sum of Number_of_Casualties": 475
+  },
+  {
+    "Date": "02-Aug",
+    "Count of Date": 366,
+    "Sum of Number_of_Vehicles": 708,
+    "Sum of Number_of_Casualties": 521
+  },
+  {
+    "Date": "03-Aug",
+    "Count of Date": 296,
+    "Sum of Number_of_Vehicles": 542,
+    "Sum of Number_of_Casualties": 390
+  },
+  {
+    "Date": "04-Aug",
+    "Count of Date": 354,
+    "Sum of Number_of_Vehicles": 680,
+    "Sum of Number_of_Casualties": 493
+  },
+  {
+    "Date": "05-Aug",
+    "Count of Date": 336,
+    "Sum of Number_of_Vehicles": 635,
+    "Sum of Number_of_Casualties": 460
+  },
+  {
+    "Date": "06-Aug",
+    "Count of Date": 304,
+    "Sum of Number_of_Vehicles": 577,
+    "Sum of Number_of_Casualties": 452
+  },
+  {
+    "Date": "07-Aug",
+    "Count of Date": 285,
+    "Sum of Number_of_Vehicles": 515,
+    "Sum of Number_of_Casualties": 419
+  },
+  {
+    "Date": "08-Aug",
+    "Count of Date": 331,
+    "Sum of Number_of_Vehicles": 624,
+    "Sum of Number_of_Casualties": 461
+  },
+  {
+    "Date": "09-Aug",
+    "Count of Date": 362,
+    "Sum of Number_of_Vehicles": 681,
+    "Sum of Number_of_Casualties": 480
+  },
+  {
+    "Date": "10-Aug",
+    "Count of Date": 353,
+    "Sum of Number_of_Vehicles": 677,
+    "Sum of Number_of_Casualties": 523
+  },
+  {
+    "Date": "11-Aug",
+    "Count of Date": 332,
+    "Sum of Number_of_Vehicles": 606,
+    "Sum of Number_of_Casualties": 429
+  },
+  {
+    "Date": "12-Aug",
+    "Count of Date": 300,
+    "Sum of Number_of_Vehicles": 548,
+    "Sum of Number_of_Casualties": 406
+  },
+  {
+    "Date": "13-Aug",
+    "Count of Date": 331,
+    "Sum of Number_of_Vehicles": 597,
+    "Sum of Number_of_Casualties": 452
+  },
+  {
+    "Date": "14-Aug",
+    "Count of Date": 325,
+    "Sum of Number_of_Vehicles": 602,
+    "Sum of Number_of_Casualties": 450
+  },
+  {
+    "Date": "15-Aug",
+    "Count of Date": 355,
+    "Sum of Number_of_Vehicles": 669,
+    "Sum of Number_of_Casualties": 475
+  },
+  {
+    "Date": "16-Aug",
+    "Count of Date": 357,
+    "Sum of Number_of_Vehicles": 642,
+    "Sum of Number_of_Casualties": 484
+  },
+  {
+    "Date": "17-Aug",
+    "Count of Date": 406,
+    "Sum of Number_of_Vehicles": 748,
+    "Sum of Number_of_Casualties": 557
+  },
+  {
+    "Date": "18-Aug",
+    "Count of Date": 374,
+    "Sum of Number_of_Vehicles": 734,
+    "Sum of Number_of_Casualties": 525
+  },
+  {
+    "Date": "19-Aug",
+    "Count of Date": 289,
+    "Sum of Number_of_Vehicles": 543,
+    "Sum of Number_of_Casualties": 408
+  },
+  {
+    "Date": "20-Aug",
+    "Count of Date": 309,
+    "Sum of Number_of_Vehicles": 586,
+    "Sum of Number_of_Casualties": 435
+  },
+  {
+    "Date": "21-Aug",
+    "Count of Date": 297,
+    "Sum of Number_of_Vehicles": 573,
+    "Sum of Number_of_Casualties": 402
+  },
+  {
+    "Date": "22-Aug",
+    "Count of Date": 328,
+    "Sum of Number_of_Vehicles": 622,
+    "Sum of Number_of_Casualties": 452
+  },
+  {
+    "Date": "23-Aug",
+    "Count of Date": 330,
+    "Sum of Number_of_Vehicles": 630,
+    "Sum of Number_of_Casualties": 456
+  },
+  {
+    "Date": "24-Aug",
+    "Count of Date": 296,
+    "Sum of Number_of_Vehicles": 560,
+    "Sum of Number_of_Casualties": 397
+  },
+  {
+    "Date": "25-Aug",
+    "Count of Date": 392,
+    "Sum of Number_of_Vehicles": 762,
+    "Sum of Number_of_Casualties": 554
+  },
+  {
+    "Date": "26-Aug",
+    "Count of Date": 305,
+    "Sum of Number_of_Vehicles": 618,
+    "Sum of Number_of_Casualties": 414
+  },
+  {
+    "Date": "27-Aug",
+    "Count of Date": 320,
+    "Sum of Number_of_Vehicles": 634,
+    "Sum of Number_of_Casualties": 434
+  },
+  {
+    "Date": "28-Aug",
+    "Count of Date": 288,
+    "Sum of Number_of_Vehicles": 543,
+    "Sum of Number_of_Casualties": 403
+  },
+  {
+    "Date": "29-Aug",
+    "Count of Date": 320,
+    "Sum of Number_of_Vehicles": 599,
+    "Sum of Number_of_Casualties": 428
+  },
+  {
+    "Date": "30-Aug",
+    "Count of Date": 353,
+    "Sum of Number_of_Vehicles": 664,
+    "Sum of Number_of_Casualties": 464
+  },
+  {
+    "Date": "31-Aug",
+    "Count of Date": 359,
+    "Sum of Number_of_Vehicles": 689,
+    "Sum of Number_of_Casualties": 466
+  },
+  {
+    "Date": "01-Sep",
+    "Count of Date": 395,
+    "Sum of Number_of_Vehicles": 763,
+    "Sum of Number_of_Casualties": 531
+  },
+  {
+    "Date": "02-Sep",
+    "Count of Date": 355,
+    "Sum of Number_of_Vehicles": 689,
+    "Sum of Number_of_Casualties": 510
+  },
+  {
+    "Date": "03-Sep",
+    "Count of Date": 284,
+    "Sum of Number_of_Vehicles": 549,
+    "Sum of Number_of_Casualties": 393
+  },
+  {
+    "Date": "04-Sep",
+    "Count of Date": 330,
+    "Sum of Number_of_Vehicles": 641,
+    "Sum of Number_of_Casualties": 452
+  },
+  {
+    "Date": "05-Sep",
+    "Count of Date": 349,
+    "Sum of Number_of_Vehicles": 682,
+    "Sum of Number_of_Casualties": 483
+  },
+  {
+    "Date": "06-Sep",
+    "Count of Date": 354,
+    "Sum of Number_of_Vehicles": 689,
+    "Sum of Number_of_Casualties": 471
+  },
+  {
+    "Date": "07-Sep",
+    "Count of Date": 348,
+    "Sum of Number_of_Vehicles": 631,
+    "Sum of Number_of_Casualties": 445
+  },
+  {
+    "Date": "08-Sep",
+    "Count of Date": 457,
+    "Sum of Number_of_Vehicles": 830,
+    "Sum of Number_of_Casualties": 575
+  },
+  {
+    "Date": "09-Sep",
+    "Count of Date": 382,
+    "Sum of Number_of_Vehicles": 742,
+    "Sum of Number_of_Casualties": 530
+  },
+  {
+    "Date": "10-Sep",
+    "Count of Date": 297,
+    "Sum of Number_of_Vehicles": 553,
+    "Sum of Number_of_Casualties": 406
+  },
+  {
+    "Date": "11-Sep",
+    "Count of Date": 388,
+    "Sum of Number_of_Vehicles": 754,
+    "Sum of Number_of_Casualties": 552
+  },
+  {
+    "Date": "12-Sep",
+    "Count of Date": 426,
+    "Sum of Number_of_Vehicles": 837,
+    "Sum of Number_of_Casualties": 555
+  },
+  {
+    "Date": "13-Sep",
+    "Count of Date": 371,
+    "Sum of Number_of_Vehicles": 732,
+    "Sum of Number_of_Casualties": 502
+  },
+  {
+    "Date": "14-Sep",
+    "Count of Date": 376,
+    "Sum of Number_of_Vehicles": 712,
+    "Sum of Number_of_Casualties": 540
+  },
+  {
+    "Date": "15-Sep",
+    "Count of Date": 436,
+    "Sum of Number_of_Vehicles": 833,
+    "Sum of Number_of_Casualties": 601
+  },
+  {
+    "Date": "16-Sep",
+    "Count of Date": 336,
+    "Sum of Number_of_Vehicles": 649,
+    "Sum of Number_of_Casualties": 428
+  },
+  {
+    "Date": "17-Sep",
+    "Count of Date": 294,
+    "Sum of Number_of_Vehicles": 565,
+    "Sum of Number_of_Casualties": 403
+  },
+  {
+    "Date": "18-Sep",
+    "Count of Date": 357,
+    "Sum of Number_of_Vehicles": 648,
+    "Sum of Number_of_Casualties": 443
+  },
+  {
+    "Date": "19-Sep",
+    "Count of Date": 407,
+    "Sum of Number_of_Vehicles": 754,
+    "Sum of Number_of_Casualties": 507
+  },
+  {
+    "Date": "20-Sep",
+    "Count of Date": 355,
+    "Sum of Number_of_Vehicles": 672,
+    "Sum of Number_of_Casualties": 437
+  },
+  {
+    "Date": "21-Sep",
+    "Count of Date": 369,
+    "Sum of Number_of_Vehicles": 693,
+    "Sum of Number_of_Casualties": 471
+  },
+  {
+    "Date": "22-Sep",
+    "Count of Date": 509,
+    "Sum of Number_of_Vehicles": 967,
+    "Sum of Number_of_Casualties": 632
+  },
+  {
+    "Date": "23-Sep",
+    "Count of Date": 296,
+    "Sum of Number_of_Vehicles": 578,
+    "Sum of Number_of_Casualties": 374
+  },
+  {
+    "Date": "24-Sep",
+    "Count of Date": 309,
+    "Sum of Number_of_Vehicles": 561,
+    "Sum of Number_of_Casualties": 383
+  },
+  {
+    "Date": "25-Sep",
+    "Count of Date": 345,
+    "Sum of Number_of_Vehicles": 641,
+    "Sum of Number_of_Casualties": 427
+  },
+  {
+    "Date": "26-Sep",
+    "Count of Date": 348,
+    "Sum of Number_of_Vehicles": 631,
+    "Sum of Number_of_Casualties": 427
+  },
+  {
+    "Date": "27-Sep",
+    "Count of Date": 403,
+    "Sum of Number_of_Vehicles": 753,
+    "Sum of Number_of_Casualties": 517
+  },
+  {
+    "Date": "28-Sep",
+    "Count of Date": 409,
+    "Sum of Number_of_Vehicles": 731,
+    "Sum of Number_of_Casualties": 508
+  },
+  {
+    "Date": "29-Sep",
+    "Count of Date": 435,
+    "Sum of Number_of_Vehicles": 816,
+    "Sum of Number_of_Casualties": 548
+  },
+  {
+    "Date": "30-Sep",
+    "Count of Date": 371,
+    "Sum of Number_of_Vehicles": 712,
+    "Sum of Number_of_Casualties": 480
+  },
+  {
+    "Date": "01-Oct",
+    "Count of Date": 258,
+    "Sum of Number_of_Vehicles": 518,
+    "Sum of Number_of_Casualties": 349
+  },
+  {
+    "Date": "02-Oct",
+    "Count of Date": 331,
+    "Sum of Number_of_Vehicles": 626,
+    "Sum of Number_of_Casualties": 438
+  },
+  {
+    "Date": "03-Oct",
+    "Count of Date": 428,
+    "Sum of Number_of_Vehicles": 864,
+    "Sum of Number_of_Casualties": 567
+  },
+  {
+    "Date": "04-Oct",
+    "Count of Date": 332,
+    "Sum of Number_of_Vehicles": 640,
+    "Sum of Number_of_Casualties": 424
+  },
+  {
+    "Date": "05-Oct",
+    "Count of Date": 415,
+    "Sum of Number_of_Vehicles": 798,
+    "Sum of Number_of_Casualties": 560
+  },
+  {
+    "Date": "06-Oct",
+    "Count of Date": 426,
+    "Sum of Number_of_Vehicles": 830,
+    "Sum of Number_of_Casualties": 574
+  },
+  {
+    "Date": "07-Oct",
+    "Count of Date": 340,
+    "Sum of Number_of_Vehicles": 653,
+    "Sum of Number_of_Casualties": 444
+  },
+  {
+    "Date": "08-Oct",
+    "Count of Date": 260,
+    "Sum of Number_of_Vehicles": 500,
+    "Sum of Number_of_Casualties": 346
+  },
+  {
+    "Date": "09-Oct",
+    "Count of Date": 295,
+    "Sum of Number_of_Vehicles": 528,
+    "Sum of Number_of_Casualties": 391
+  },
+  {
+    "Date": "10-Oct",
+    "Count of Date": 418,
+    "Sum of Number_of_Vehicles": 779,
+    "Sum of Number_of_Casualties": 563
+  },
+  {
+    "Date": "11-Oct",
+    "Count of Date": 416,
+    "Sum of Number_of_Vehicles": 778,
+    "Sum of Number_of_Casualties": 572
+  },
+  {
+    "Date": "12-Oct",
+    "Count of Date": 416,
+    "Sum of Number_of_Vehicles": 781,
+    "Sum of Number_of_Casualties": 559
+  },
+  {
+    "Date": "13-Oct",
+    "Count of Date": 377,
+    "Sum of Number_of_Vehicles": 718,
+    "Sum of Number_of_Casualties": 526
+  },
+  {
+    "Date": "14-Oct",
+    "Count of Date": 336,
+    "Sum of Number_of_Vehicles": 667,
+    "Sum of Number_of_Casualties": 504
+  },
+  {
+    "Date": "15-Oct",
+    "Count of Date": 306,
+    "Sum of Number_of_Vehicles": 576,
+    "Sum of Number_of_Casualties": 397
+  },
+  {
+    "Date": "16-Oct",
+    "Count of Date": 356,
+    "Sum of Number_of_Vehicles": 681,
+    "Sum of Number_of_Casualties": 497
+  },
+  {
+    "Date": "17-Oct",
+    "Count of Date": 370,
+    "Sum of Number_of_Vehicles": 712,
+    "Sum of Number_of_Casualties": 518
+  },
+  {
+    "Date": "18-Oct",
+    "Count of Date": 388,
+    "Sum of Number_of_Vehicles": 758,
+    "Sum of Number_of_Casualties": 543
+  },
+  {
+    "Date": "19-Oct",
+    "Count of Date": 450,
+    "Sum of Number_of_Vehicles": 851,
+    "Sum of Number_of_Casualties": 617
+  },
+  {
+    "Date": "20-Oct",
+    "Count of Date": 449,
+    "Sum of Number_of_Vehicles": 871,
+    "Sum of Number_of_Casualties": 626
+  },
+  {
+    "Date": "21-Oct",
+    "Count of Date": 337,
+    "Sum of Number_of_Vehicles": 622,
+    "Sum of Number_of_Casualties": 485
+  },
+  {
+    "Date": "22-Oct",
+    "Count of Date": 252,
+    "Sum of Number_of_Vehicles": 471,
+    "Sum of Number_of_Casualties": 325
+  },
+  {
+    "Date": "23-Oct",
+    "Count of Date": 327,
+    "Sum of Number_of_Vehicles": 621,
+    "Sum of Number_of_Casualties": 411
+  },
+  {
+    "Date": "24-Oct",
+    "Count of Date": 328,
+    "Sum of Number_of_Vehicles": 631,
+    "Sum of Number_of_Casualties": 445
+  },
+  {
+    "Date": "25-Oct",
+    "Count of Date": 365,
+    "Sum of Number_of_Vehicles": 678,
+    "Sum of Number_of_Casualties": 475
+  },
+  {
+    "Date": "26-Oct",
+    "Count of Date": 349,
+    "Sum of Number_of_Vehicles": 698,
+    "Sum of Number_of_Casualties": 427
+  },
+  {
+    "Date": "27-Oct",
+    "Count of Date": 504,
+    "Sum of Number_of_Vehicles": 972,
+    "Sum of Number_of_Casualties": 667
+  },
+  {
+    "Date": "28-Oct",
+    "Count of Date": 314,
+    "Sum of Number_of_Vehicles": 606,
+    "Sum of Number_of_Casualties": 438
+  },
+  {
+    "Date": "29-Oct",
+    "Count of Date": 311,
+    "Sum of Number_of_Vehicles": 621,
+    "Sum of Number_of_Casualties": 452
+  },
+  {
+    "Date": "30-Oct",
+    "Count of Date": 360,
+    "Sum of Number_of_Vehicles": 669,
+    "Sum of Number_of_Casualties": 464
+  },
+  {
+    "Date": "31-Oct",
+    "Count of Date": 380,
+    "Sum of Number_of_Vehicles": 711,
+    "Sum of Number_of_Casualties": 489
+  },
+  {
+    "Date": "01-Nov",
+    "Count of Date": 373,
+    "Sum of Number_of_Vehicles": 707,
+    "Sum of Number_of_Casualties": 503
+  },
+  {
+    "Date": "02-Nov",
+    "Count of Date": 357,
+    "Sum of Number_of_Vehicles": 613,
+    "Sum of Number_of_Casualties": 423
+  },
+  {
+    "Date": "03-Nov",
+    "Count of Date": 436,
+    "Sum of Number_of_Vehicles": 757,
+    "Sum of Number_of_Casualties": 576
+  },
+  {
+    "Date": "04-Nov",
+    "Count of Date": 357,
+    "Sum of Number_of_Vehicles": 640,
+    "Sum of Number_of_Casualties": 497
+  },
+  {
+    "Date": "05-Nov",
+    "Count of Date": 286,
+    "Sum of Number_of_Vehicles": 523,
+    "Sum of Number_of_Casualties": 404
+  },
+  {
+    "Date": "06-Nov",
+    "Count of Date": 438,
+    "Sum of Number_of_Vehicles": 816,
+    "Sum of Number_of_Casualties": 599
+  },
+  {
+    "Date": "07-Nov",
+    "Count of Date": 422,
+    "Sum of Number_of_Vehicles": 758,
+    "Sum of Number_of_Casualties": 589
+  },
+  {
+    "Date": "08-Nov",
+    "Count of Date": 431,
+    "Sum of Number_of_Vehicles": 768,
+    "Sum of Number_of_Casualties": 642
+  },
+  {
+    "Date": "09-Nov",
+    "Count of Date": 398,
+    "Sum of Number_of_Vehicles": 745,
+    "Sum of Number_of_Casualties": 564
+  },
+  {
+    "Date": "10-Nov",
+    "Count of Date": 455,
+    "Sum of Number_of_Vehicles": 790,
+    "Sum of Number_of_Casualties": 626
+  },
+  {
+    "Date": "11-Nov",
+    "Count of Date": 344,
+    "Sum of Number_of_Vehicles": 602,
+    "Sum of Number_of_Casualties": 497
+  },
+  {
+    "Date": "12-Nov",
+    "Count of Date": 289,
+    "Sum of Number_of_Vehicles": 551,
+    "Sum of Number_of_Casualties": 412
+  },
+  {
+    "Date": "13-Nov",
+    "Count of Date": 376,
+    "Sum of Number_of_Vehicles": 713,
+    "Sum of Number_of_Casualties": 560
+  },
+  {
+    "Date": "14-Nov",
+    "Count of Date": 421,
+    "Sum of Number_of_Vehicles": 777,
+    "Sum of Number_of_Casualties": 586
+  },
+  {
+    "Date": "15-Nov",
+    "Count of Date": 434,
+    "Sum of Number_of_Vehicles": 827,
+    "Sum of Number_of_Casualties": 552
+  },
+  {
+    "Date": "16-Nov",
+    "Count of Date": 436,
+    "Sum of Number_of_Vehicles": 849,
+    "Sum of Number_of_Casualties": 563
+  },
+  {
+    "Date": "17-Nov",
+    "Count of Date": 450,
+    "Sum of Number_of_Vehicles": 888,
+    "Sum of Number_of_Casualties": 605
+  },
+  {
+    "Date": "18-Nov",
+    "Count of Date": 328,
+    "Sum of Number_of_Vehicles": 620,
+    "Sum of Number_of_Casualties": 412
+  },
+  {
+    "Date": "19-Nov",
+    "Count of Date": 305,
+    "Sum of Number_of_Vehicles": 558,
+    "Sum of Number_of_Casualties": 415
+  },
+  {
+    "Date": "20-Nov",
+    "Count of Date": 379,
+    "Sum of Number_of_Vehicles": 702,
+    "Sum of Number_of_Casualties": 528
+  },
+  {
+    "Date": "21-Nov",
+    "Count of Date": 394,
+    "Sum of Number_of_Vehicles": 720,
+    "Sum of Number_of_Casualties": 539
+  },
+  {
+    "Date": "22-Nov",
+    "Count of Date": 428,
+    "Sum of Number_of_Vehicles": 823,
+    "Sum of Number_of_Casualties": 600
+  },
+  {
+    "Date": "23-Nov",
+    "Count of Date": 458,
+    "Sum of Number_of_Vehicles": 861,
+    "Sum of Number_of_Casualties": 629
+  },
+  {
+    "Date": "24-Nov",
+    "Count of Date": 497,
+    "Sum of Number_of_Vehicles": 908,
+    "Sum of Number_of_Casualties": 671
+  },
+  {
+    "Date": "25-Nov",
+    "Count of Date": 383,
+    "Sum of Number_of_Vehicles": 697,
+    "Sum of Number_of_Casualties": 509
+  },
+  {
+    "Date": "26-Nov",
+    "Count of Date": 315,
+    "Sum of Number_of_Vehicles": 581,
+    "Sum of Number_of_Casualties": 425
+  },
+  {
+    "Date": "27-Nov",
+    "Count of Date": 431,
+    "Sum of Number_of_Vehicles": 816,
+    "Sum of Number_of_Casualties": 547
+  },
+  {
+    "Date": "28-Nov",
+    "Count of Date": 465,
+    "Sum of Number_of_Vehicles": 806,
+    "Sum of Number_of_Casualties": 616
+  },
+  {
+    "Date": "29-Nov",
+    "Count of Date": 416,
+    "Sum of Number_of_Vehicles": 733,
+    "Sum of Number_of_Casualties": 589
+  },
+  {
+    "Date": "30-Nov",
+    "Count of Date": 456,
+    "Sum of Number_of_Vehicles": 828,
+    "Sum of Number_of_Casualties": 644
+  },
+  {
+    "Date": "01-Dec",
+    "Count of Date": 559,
+    "Sum of Number_of_Vehicles": 1027,
+    "Sum of Number_of_Casualties": 742
+  },
+  {
+    "Date": "02-Dec",
+    "Count of Date": 315,
+    "Sum of Number_of_Vehicles": 543,
+    "Sum of Number_of_Casualties": 401
+  },
+  {
+    "Date": "03-Dec",
+    "Count of Date": 269,
+    "Sum of Number_of_Vehicles": 497,
+    "Sum of Number_of_Casualties": 369
+  },
+  {
+    "Date": "04-Dec",
+    "Count of Date": 388,
+    "Sum of Number_of_Vehicles": 699,
+    "Sum of Number_of_Casualties": 520
+  },
+  {
+    "Date": "05-Dec",
+    "Count of Date": 377,
+    "Sum of Number_of_Vehicles": 691,
+    "Sum of Number_of_Casualties": 539
+  },
+  {
+    "Date": "06-Dec",
+    "Count of Date": 413,
+    "Sum of Number_of_Vehicles": 763,
+    "Sum of Number_of_Casualties": 554
+  },
+  {
+    "Date": "07-Dec",
+    "Count of Date": 428,
+    "Sum of Number_of_Vehicles": 819,
+    "Sum of Number_of_Casualties": 586
+  },
+  {
+    "Date": "08-Dec",
+    "Count of Date": 466,
+    "Sum of Number_of_Vehicles": 925,
+    "Sum of Number_of_Casualties": 628
+  },
+  {
+    "Date": "09-Dec",
+    "Count of Date": 323,
+    "Sum of Number_of_Vehicles": 582,
+    "Sum of Number_of_Casualties": 471
+  },
+  {
+    "Date": "10-Dec",
+    "Count of Date": 228,
+    "Sum of Number_of_Vehicles": 386,
+    "Sum of Number_of_Casualties": 294
+  },
+  {
+    "Date": "11-Dec",
+    "Count of Date": 334,
+    "Sum of Number_of_Vehicles": 567,
+    "Sum of Number_of_Casualties": 449
+  },
+  {
+    "Date": "12-Dec",
+    "Count of Date": 393,
+    "Sum of Number_of_Vehicles": 678,
+    "Sum of Number_of_Casualties": 535
+  },
+  {
+    "Date": "13-Dec",
+    "Count of Date": 391,
+    "Sum of Number_of_Vehicles": 717,
+    "Sum of Number_of_Casualties": 531
+  },
+  {
+    "Date": "14-Dec",
+    "Count of Date": 468,
+    "Sum of Number_of_Vehicles": 817,
+    "Sum of Number_of_Casualties": 607
+  },
+  {
+    "Date": "15-Dec",
+    "Count of Date": 476,
+    "Sum of Number_of_Vehicles": 825,
+    "Sum of Number_of_Casualties": 605
+  },
+  {
+    "Date": "16-Dec",
+    "Count of Date": 368,
+    "Sum of Number_of_Vehicles": 660,
+    "Sum of Number_of_Casualties": 497
+  },
+  {
+    "Date": "17-Dec",
+    "Count of Date": 247,
+    "Sum of Number_of_Vehicles": 433,
+    "Sum of Number_of_Casualties": 319
+  },
+  {
+    "Date": "18-Dec",
+    "Count of Date": 448,
+    "Sum of Number_of_Vehicles": 817,
+    "Sum of Number_of_Casualties": 588
+  },
+  {
+    "Date": "19-Dec",
+    "Count of Date": 389,
+    "Sum of Number_of_Vehicles": 738,
+    "Sum of Number_of_Casualties": 497
+  },
+  {
+    "Date": "20-Dec",
+    "Count of Date": 338,
+    "Sum of Number_of_Vehicles": 591,
+    "Sum of Number_of_Casualties": 422
+  },
+  {
+    "Date": "21-Dec",
+    "Count of Date": 356,
+    "Sum of Number_of_Vehicles": 641,
+    "Sum of Number_of_Casualties": 451
+  },
+  {
+    "Date": "22-Dec",
+    "Count of Date": 393,
+    "Sum of Number_of_Vehicles": 702,
+    "Sum of Number_of_Casualties": 467
+  },
+  {
+    "Date": "23-Dec",
+    "Count of Date": 289,
+    "Sum of Number_of_Vehicles": 523,
+    "Sum of Number_of_Casualties": 373
+  },
+  {
+    "Date": "24-Dec",
+    "Count of Date": 220,
+    "Sum of Number_of_Vehicles": 378,
+    "Sum of Number_of_Casualties": 313
+  },
+  {
+    "Date": "25-Dec",
+    "Count of Date": 137,
+    "Sum of Number_of_Vehicles": 234,
+    "Sum of Number_of_Casualties": 193
+  },
+  {
+    "Date": "26-Dec",
+    "Count of Date": 259,
+    "Sum of Number_of_Vehicles": 473,
+    "Sum of Number_of_Casualties": 389
+  },
+  {
+    "Date": "27-Dec",
+    "Count of Date": 264,
+    "Sum of Number_of_Vehicles": 471,
+    "Sum of Number_of_Casualties": 346
+  },
+  {
+    "Date": "28-Dec",
+    "Count of Date": 296,
+    "Sum of Number_of_Vehicles": 534,
+    "Sum of Number_of_Casualties": 409
+  },
+  {
+    "Date": "29-Dec",
+    "Count of Date": 240,
+    "Sum of Number_of_Vehicles": 439,
+    "Sum of Number_of_Casualties": 331
+  },
+  {
+    "Date": "30-Dec",
+    "Count of Date": 210,
+    "Sum of Number_of_Vehicles": 379,
+    "Sum of Number_of_Casualties": 286
+  },
+  {
+    "Date": "31-Dec",
+    "Count of Date": 188,
+    "Sum of Number_of_Vehicles": 340,
+    "Sum of Number_of_Casualties": 249
+  },
+  {
+    "Date": "Grand Total",
+    "Count of Date": 129982,
+    "Sum of Number_of_Vehicles": 238926,
+    "Sum of Number_of_Casualties": 170993
+  }
+]
